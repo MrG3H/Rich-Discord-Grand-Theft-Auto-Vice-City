@@ -55,7 +55,7 @@ A linha de status alterna informações a cada **3 segundos** para não poluir a
 
 ## 🤝 Créditos
 
-* **Developed by:** [MrGeH](https://github.com/MrG3H)
+* **Desenvolvido por:** [MrGeH](https://github.com/MrG3H)
 * **Baseado em:** [Plugin SDK](https://github.com/DK22Pac/plugin-sdk)
 * **Tecnologia:** Discord RPC
 
