@@ -53,6 +53,16 @@ A linha de status alterna informações a cada **3 segundos** para não poluir a
 
 ---
 
+## 🤝 Créditos
+
+* **Developed by:** [MrGeH] (https://github.com/MrG3H)
+
+* **Baseado em:** [Plugin SDK](https://github.com/DK22Pac/plugin-sdk)
+
+* **Tecnologia:** Discord RPC
+
+---
+
 ## 🇺🇸 English
 
 A modern and optimized **.asi** plugin that integrates **Discord Rich Presence** into the classic **Grand Theft Auto: Vice City**. Show your friends exactly what you are doing in Vice City with precise details, weapon icons, and a dynamic status system.
@@ -101,9 +111,8 @@ The status line switches information every **3 seconds** to avoid screen clutter
 
 ---
 
-## 🤝 Credits / Créditos
-
-* **Developed by:** [MrGeH]
+## 🤝 Credits
+* **Developed by:** [MrGeH] (https://github.com/MrG3H)
 * **Based on:** [Plugin SDK](https://github.com/DK22Pac/plugin-sdk)
 * **Technology:** Discord RPC
 
