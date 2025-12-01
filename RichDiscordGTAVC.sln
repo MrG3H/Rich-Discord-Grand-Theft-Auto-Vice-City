@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RichDiscordGTAVC", "RichDiscordGTAVC.vcxproj", "{680B8CFE-5404-AB50-7D36-90D5698E8A5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|GTA-VC = Debug|GTA-VC
+		Release|GTA-VC = Release|GTA-VC
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{680B8CFE-5404-AB50-7D36-90D5698E8A5C}.Debug|GTA-VC.ActiveCfg = Debug GTA-VC|Win32
+		{680B8CFE-5404-AB50-7D36-90D5698E8A5C}.Debug|GTA-VC.Build.0 = Debug GTA-VC|Win32
+		{680B8CFE-5404-AB50-7D36-90D5698E8A5C}.Release|GTA-VC.ActiveCfg = Release GTA-VC|Win32
+		{680B8CFE-5404-AB50-7D36-90D5698E8A5C}.Release|GTA-VC.Build.0 = Release GTA-VC|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

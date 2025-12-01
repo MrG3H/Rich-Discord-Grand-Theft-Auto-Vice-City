@@ -1,0 +1,2 @@
+﻿  Main.cpp
+C:\Users\geral\plugin-sdk\tools\myplugin-gen\generated\RichDiscordGTAVC\source\Main.cpp(13,10): error C1083: Não é possível abrir arquivo incluir: 'discord_rpc.h': No such file or directory

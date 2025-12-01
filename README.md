@@ -11,25 +11,25 @@ Um plugin **.asi** moderno e otimizado que integra o **Discord Rich Presence** a
 
 ### 📸 Funcionalidades
 
-#### 🚗 Atividades Detalhadas
+#### 🚗 Atividades e Cutscenes
 * Detecta automaticamente se você está **"Andando a pé"** ou **"Dirigindo [Nome do Veículo]"**.
-* Nomes dos veículos originais em **Inglês** (ex: *Infernus, Cheetah, Police Car*).
-* Detecção de **Cutscenes** (exibe "Assistindo Cutscene" durante a história).
+* Lista manual de veículos para garantir nomes corretos (ex: *Infernus, Cheetah, Police Car*).
+* **Detecção de Cutscenes:** O status muda para "Assistindo Cutscene" automaticamente durante a história.
 
-#### 🕵️ Missões e Rádio
+#### 🕵️ Missões e Localização
 * **Sistema de Missão Inteligente:** Exibe "Missão: [Nome]" apenas quando você está jogando uma missão real (ignora scripts de fundo).
-* **Rádio em Tempo Real:** Mostra a estação de rádio que você está ouvindo no carro (Nomes originais em Inglês, ex: *Flash FM, V-Rock*).
+* **Localização Geográfica:** Utiliza um sistema de coordenadas matemáticas para identificar o bairro (ex: *Ocean Beach, Downtown*), corrigindo bugs de memória de versões modificadas do jogo.
 
 #### 🔄 Status Rotativo (Ciclo Dinâmico)
 A linha de status alterna informações a cada **3 segundos** para não poluir a tela:
 1.  ❤️ **Saúde:** Vida (HP) e Colete.
-2.  📍 **Local:** Bairro/Zona atual (ex: *Ocean Beach*).
-3.  🎵 **Rádio:** Estação atual (apenas se estiver em veículo).
-4.  ⭐ **Procurado:** Nível de estrelas (apenas se estiver sendo perseguido).
+2.  📍 **Local:** Bairro/Zona atual.
+3.  ⭐ **Procurado:** Nível de estrelas (apenas se estiver sendo perseguido).
+4.  🔫 **Missão:** Nome da missão atual (apenas se estiver em missão).
 5.  💰 **Estado:** Dinheiro atual e Hora do jogo.
 
 #### 🔫 Ícones de Armas
-* Exibe o ícone da arma específica que o Tommy está segurando (Uzi, Python, Katana, etc.).
+* Exibe o ícone da arma específica que o Tommy está segurando (Uzi, Python, Katana, etc.), com créditos no tooltip.
 
 ### ⚠️ Requisitos Obrigatórios
 
@@ -56,9 +56,7 @@ A linha de status alterna informações a cada **3 segundos** para não poluir a
 ## 🤝 Créditos
 
 * **Developed by:** [MrGeH](https://github.com/MrG3H)
-
 * **Baseado em:** [Plugin SDK](https://github.com/DK22Pac/plugin-sdk)
-
 * **Tecnologia:** Discord RPC
 
 ---
@@ -69,25 +67,25 @@ A modern and optimized **.asi** plugin that integrates **Discord Rich Presence**
 
 ### 📸 Features
 
-#### 🚗 Detailed Activities
+#### 🚗 Activities & Cutscenes
 * Automatically detects if you are **"On Foot"** or **"Driving [Vehicle Name]"**.
-* Original vehicle names in **English** (e.g., *Infernus, Cheetah, Police Car*).
-* **Cutscene** detection (displays "Watching Cutscene" during the story).
+* Manual vehicle list ensures correct naming (e.g., *Infernus, Cheetah, Police Car*).
+* **Cutscene Detection:** Status automatically changes to "Watching Cutscene" during story sequences.
 
-#### 🕵️ Missions & Radio
+#### 🕵️ Missions & Location
 * **Smart Mission System:** Displays "Mission: [Name]" only when you are playing an actual mission (ignores background scripts).
-* **Real-Time Radio:** Shows the radio station you are listening to in the car (Original names in English, e.g., *Flash FM, V-Rock*).
+* **Geographic Location:** Uses a coordinate-based system to identify the neighborhood (e.g., *Ocean Beach, Downtown*), fixing memory bugs present in modified game versions.
 
 #### 🔄 Rotating Status (Dynamic Cycle)
 The status line switches information every **3 seconds** to avoid screen clutter:
 1.  ❤️ **Health:** Health (HP) and Armor.
-2.  📍 **Location:** Current Neighborhood/Zone (e.g., *Ocean Beach*).
-3.  🎵 **Radio:** Current Station (only if inside a vehicle).
-4.  ⭐ **Wanted:** Wanted Level (only if being chased).
+2.  📍 **Location:** Current Neighborhood/Zone.
+3.  ⭐ **Wanted:** Wanted Level (only if being chased).
+4.  🔫 **Mission:** Current mission name (only if active).
 5.  💰 **State:** Current Money and In-Game Time.
 
 #### 🔫 Weapon Icons
-* Displays the specific icon of the weapon Tommy is currently holding (Uzi, Python, Katana, etc.).
+* Displays the specific icon of the weapon Tommy is currently holding (Uzi, Python, Katana, etc.), with credits in the tooltip.
 
 ### ⚠️ Mandatory Requirements
 
