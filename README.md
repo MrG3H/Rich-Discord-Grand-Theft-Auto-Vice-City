@@ -114,4 +114,4 @@ The status line switches information every **3 seconds** to avoid screen clutter
 ---
 
 ###### 🏷️ Tags / Keywords
-`Rich Discord GTA VC` • `Rich Discord Grand Theft Auto Vice City` • `Discord RPC GTA VC` • `Grand Theft Auto Vice City Discord Rich Presence` • `gta vc discord rpc` • `discord rpc grand theft auto vice city`
+`Rich Discord GTA VC` • `Rich Discord Grand Theft Auto Vice City` • `Discord RPC GTA VC` • `Grand Theft Auto Vice City Discord Rich Presence` • `gta vc discord rpc` • `discord rpc grand theft auto vice city` • `GTA VC Discord Rich Presence`
